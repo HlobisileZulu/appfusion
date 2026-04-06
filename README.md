@@ -31,7 +31,7 @@ Running AppFusion on Evernote (a real app with a known history) revealed the fol
 
 ### This matches what industry analysts have publicly noted about Evernote's trajectory — which means the tool is working.
 
-Tech Stack
+## Tech Stack
 LayerTechnologyWhyData CollectionPython + iTunes Search APIFree, no auth requiredDatabaseMySQLProduction-grade, real-world standardAnalyticsPandas + PlotlyIndustry standard data stackAIGroq API — LLaMA 3.3 70BFree tier, fast inferenceBackendFastAPI + UvicornTyped, async, production-readyFrontendReact + Tailwind CSSComponent-driven, modernVisualisationRechartsDeclarative, React-native chartsEnvironmentpython-dotenvSecure credential managementDeployNetlify + RailwayFree tier, CI/CD from GitHub
 
 ## Getting Started: Prerequisites
@@ -74,8 +74,11 @@ Coming from a data analysis background (SQL + Python), this project pushed
 me into territory I'd never worked in before:
 
 React — I had very little to none React experience before this project. Building a real, data-driven dashboard was how I learnt it. Every component, every hook, every state update was new.
+
 FastAPI — Designing typed, async API endpoints taught me how backend services actually work in production environments.
+
 Prompt Engineering — Getting an LLM to return consistent, structured JSON reliably required more iteration than I expected. The prompt design is as important as the code around it.
+
 Full-stack thinking — Connecting a scraper to a database to an analytics engine to an AI to a frontend taught me to think about systems, not just scripts.
 
 
