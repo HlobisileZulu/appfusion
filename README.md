@@ -82,6 +82,5 @@ Prompt Engineering — Getting an LLM to return consistent, structured JSON reli
 Full-stack thinking — Connecting a scraper to a database to an analytics engine to an AI to a frontend taught me to think about systems, not just scripts.
 
 
-#### [Inspired and grateful for the product philosophy of companies like Bending Spoons, who treat app acquisition as a data-driven science, it was a major inspiration for this project's design. AppFusion is not affiliated with or built for any specific company. It's a general-purpose intelligence tool that any
-product team, VC analyst, or indie developer could use.]
+### Inspired and grateful for the product philosophy of companies like Bending Spoons, who treat app acquisition as a data-driven science, it was a major inspiration for this project's design. AppFusion is not affiliated with or built for any specific company. It's a general-purpose intelligence tool that any product team, VC analyst, or indie developer could use.
 
