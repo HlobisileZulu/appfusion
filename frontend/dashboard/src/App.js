@@ -784,7 +784,7 @@ export default function App() {
           fontSize: "0.78rem",
         }}>
           <p>
-            AppFusion · App Intelligence Toolkit · Open Source · MIT
+            AppFusion · App Intelligence Toolkit · Open Source 
           </p>
           <p style={{ marginTop: 8, opacity: 0.5, fontSize: "0.71rem" }}>
             Drop in any app. Get back a full intelligence report.
